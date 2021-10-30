@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Why do I need a blog?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Let's find out ...
